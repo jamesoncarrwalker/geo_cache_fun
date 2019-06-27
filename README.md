@@ -1,5 +1,8 @@
 # geo_cache_fun
 
+Built jan 2017
+
+
 This is a microsite that was built in a couple of hours (and at very short notice) for a friends reunion 
 when we needed a last minute activity for the afternoon (to delay beers in the hottub).
 
